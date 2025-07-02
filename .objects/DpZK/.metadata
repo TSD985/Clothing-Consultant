@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Meet - qet-ppuz-ujh",
+  "Type": "App",
+  "Id": "DpZKgSH420Ggv0qlx9GJ3w",
+  "Reference": "MFUqF4ggTEGRv0Jih-aZGA/DpZKgSH420Ggv0qlx9GJ3w",
+  "Created": "2025-03-23T16:52:07.7015194Z",
+  "Updated": "2025-03-23T16:52:07.7015194Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

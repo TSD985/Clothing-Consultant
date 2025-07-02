@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Meet - qet-ppuz-ujh",
+  "Type": "Screen",
+  "Id": "6F0le1_Fuka0q_m3CCZVZA",
+  "Reference": "MFUqF4ggTEGRv0Jih-aZGA/6F0le1_Fuka0q_m3CCZVZA",
+  "ParentRef": "MFUqF4ggTEGRv0Jih-aZGA/auWcL1dKk0aLVzqqRvrDPw",
+  "Created": "2025-03-23T16:52:07.7899906Z",
+  "Updated": "2025-03-23T16:52:07.7899906Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

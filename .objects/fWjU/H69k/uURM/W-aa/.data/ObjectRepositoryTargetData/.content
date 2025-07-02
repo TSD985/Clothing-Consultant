@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZbjiTWNVLUC28ToP9XiWGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.in/search" CVScreenId="ec987bfa-6b77-4a1b-83ef-28a4c4f2187a" CvTextArea="249, 618, 82, 57" CvType="AnyWordGroup" DesignTimeRectangle="252, 602, 80, 91" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="cbdd241b-b7c2-4527-a3ba-1b1194b200d4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather in bhubaneswar in Celsius. - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ec987bfa-6b77-4a1b-83ef-28a4c4f2187a" CvTextArea="339, 621, 65, 22" CvTextArgument="°C °F" CvType="Text" DesignTimeRectangle="332, 615, 72, 36" FuzzySelectorArgument="&lt;webctrl aaname='    ' parentid='wob_wc' tag='DIV' type='' class='vk_bk wob-unit' check:innerText='°C°F' /&gt;" Guid="b2928698-15a5-4d0b-8af9-0f3cabc4ac0a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="faa9d028c4985987e2024d3e4417cf4d.png" xmlns="">0CNRZFl6jjEKWHd1ipM33pA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

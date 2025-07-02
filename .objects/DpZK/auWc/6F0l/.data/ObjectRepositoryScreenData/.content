@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="aQvfm6camkuvTDsaV0hNpg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJVSURBVFhHY2AYBaMAD3jlYmzzfRXPkT97mO+TjHcz3/69m6X//34GDnRziQIgy185m33+sYz35e89LP/JxX/2MMejm00QwCx/5Wz6//sC/p/ohpKC/+xhno9uPl6AbDnYAfMEMAwlBSM7QHtVKI/JiqDlJiuCz5ssD3FAtRmL5VAH/EU3lBQMc4D5kiAZkxXBp01WBP8HYeMVwaghg81ysAOW8r1FN5QUDHKA0YogC5MVwc9hlmM4YGtkvutZv7Cv5/xC/qPjLyuETmOkcCwY3WIY3rdJcq3JiuDfyJZjOMCp9Wu9U+uX/1hxy+dQuEI8AN3iX3tY/nTPl32lMtnlErrlNHfA511sf8InaP6XaLD4rzzR5Rm65TR1wP2tXL+sOw3AloMdMMHpF7rlNHPAuQ3877VaTeCWg7BSvxOG5TRxwJ7VQjdkGs1RLKerAzSme1xCt5yuDgAZqj3b67lk4wA6AIR15/t+kWy2RDhggtMfdMtp6gAQNlwS8E2mzQbsAOUJzq/RLae5A8AWLAv8KNdt91llkst1dDkMB8hl3yhXyLn+HxPf+GEwq2CbyYrg/URgDEtARbDuAr+NWMRRHSCRdrleMv3Sf2xYf07WK3TNpGCQRSYrg+qxiRPlAL2ZhVgTEbEYZpHp8qBwkxXB39HFCTpAd0YxhqGkYGSLjFeF2iBVy5OJcgC1QgAGLJYHKICiBEQjOeBiPLrFMGwwJ/sNuqEk4eXB2cgOwAoUEu5zSKZfWi2Zfuk3ugMMFyTdwjCUOAxqhKw3WB8ggG7fKBgFyAAAJyMbKo2d0KAAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Meet - qet-ppuz-ujh' /&gt;" Url="https://meet.google.com/qet-ppuz-ujh" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="b49f9801c5ccc4d981cc8f4215a65ad4.jpg" xmlns="">0TE-6j9bQO0-29Fdh8E3NmQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
